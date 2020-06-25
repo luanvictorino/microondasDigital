@@ -1,0 +1,43 @@
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe.config
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.pdb
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.csprojAssemblyReference.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.FrmMicroOndasDigital.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.Properties.Resources.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.csproj.GenerateResource.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.csproj.CoreCompileInputs.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.exe
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.pdb
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe.config
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.pdb
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csprojAssemblyReference.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.FrmMicroondasDigital.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.Properties.Resources.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csproj.GenerateResource.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csproj.CoreCompileInputs.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.exe
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta - Backup\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.pdb
+C:\Users\Débora\Desktop\AvaliaçãoBenner\AvaliacaoPronta\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.frmCadProgramaAquecimento.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe.config
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.pdb
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csprojAssemblyReference.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.frmCadProgramaAquecimento.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.FrmMicroondasDigital.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.Properties.Resources.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csproj.GenerateResource.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csproj.CoreCompileInputs.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.exe
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.pdb
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe.config
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.pdb
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csprojAssemblyReference.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.frmCadProgramaAquecimento.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.FrmMicroondasDigital.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.Properties.Resources.resources
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csproj.GenerateResource.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroondasDigital.csproj.CoreCompileInputs.cache
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.exe
+C:\Users\Débora\Desktop\AvaliaçãoBenner\Backuppppppppp\Nova pasta\MicroondasDigital-AvaliacaoBenner\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.pdb
